@@ -16,11 +16,5 @@
   },
   "action": {
     "default_popup": "options.html"
-  },
-  "action_handlers": {
-    "default": {
-      "type": "page",
-      "url": "options.html"
-    }
   }
 }

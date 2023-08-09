@@ -1,0 +1,3 @@
+// Content script
+
+// ... rest of the code ...

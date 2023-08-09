@@ -3,7 +3,8 @@
 // Import the WSClient module
 import WSClient from './lib/WSClient';
 
-// Create a new instance of the WSClient
-const vtigerClient = new WSClient('https://your-vtiger-url.com');
+// Get the WSClient URL from the Chrome settings
+const wsClientUrl = chrome.extension.getBackgroundPage().wsClientUrl;
+const vtigerClient = new WSClient(wsClientUrl);
 
 // ... your code using the vtigerClient goes here ...

@@ -6,9 +6,6 @@
     "activeTab",
     "storage"
   ],
-  "options_ui": {
-    "page": "options.html"
-  },
   "icons": {
     "16": "assets/images/vtiger16.png",
     "48": "assets/images/vtiger48.png",
@@ -16,5 +13,8 @@
   },
   "background": {
     "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "options.html"
   }
 }

@@ -7,8 +7,7 @@
     "storage"
   ],
   "options_ui": {
-    "page": "options.html",
-    "chrome_style": true
+    "page": "options.html"
   },
   "icons": {
     "16": "assets/images/vtiger16.png",

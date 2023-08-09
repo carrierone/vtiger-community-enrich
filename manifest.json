@@ -16,5 +16,6 @@
   },
   "action": {
     "default_action": "options_loader.js"
-  }
+  },
+  "options_page": "options.html"
 }

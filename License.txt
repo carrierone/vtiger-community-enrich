@@ -1,0 +1,118 @@
+﻿Vtiger Commercial License - 1.1
+
+
+This License Agreement covers the following licenses employed by some Vtiger products, services and extensions.
+
+
+    * Evaluation License
+    * Commercial License
+
+
+Please read the following license carefully, before either (i) completing the electronic order or download of the Licensed Software or (ii) installing the Licensed Software from media that was delivered after being ordered by alternative order process, as applicable. You acknowledge that you have read this License Agreement, have understood it, and agree to be bound by its terms. If you do not agree to the terms and conditions of this Agreement, either (i) exit the web site page without continuing the ordering process, or (ii) return the provided unused media and documentation within thirty (30) days from the date of shipment of the Licensed Software for a full refund of your payment, as applicable.
+
+
+1. EVALUATION LICENSE:
+
+
+vtiger Systems (India) Private limited ("vtiger") grants to you a non-exclusive, non-transferable, Evaluation License for trial and evaluation of the Licensed software, in text or binary object code form, for a period of thirty (30) days from the date of download or installation. This License begins upon downloading or installing the Licensed Software and ends thirty (30) days thereafter ("Evaluation Period").
+
+
+If you are not willing to use the Licensed Software, after the Evaluation Period, delete all the copies installed in your computer with immediate effect except for any automatically generated backup copies used for archival purpose. You are forbidden from using the Licensed Software for any other use or otherwise offering it for resale under the terms of this Section 1. vtiger retains all rights not specifically granted to you herein.
+
+
+2. COMMERCIAL LICENSE:
+
+
+vtiger grants you a fee-bearing, non-exclusive, perpetual,  non-transferable, to Use the Licensed Software, including user documentation that you have downloaded from or received on media provided by vtiger, including all updates provided through the vtiger subscribed support services, where applicable, provided that such access and Use of the Licensed Software is in accordance with the Single Installation License granted by vtiger. "Use" means storing, loading, installing, executing or displaying the Licensed Software as part of your application. "Single Installation License" means that one copy of the Licensed Software can be installed only in one CPU.
+
+
+3. THIRD PARTY PRODUCTS:
+
+
+The Licensed Software may contain software which originated with third party vendors and without limiting the general applicability of the other provisions of this Agreement, you agree that (a) the title to any third party software incorporated in the Licensed Software shall remain with the third party which supplied the same; and (b) you will not distribute any such third party software available with the Licensed Software, in any manner.
+
+
+4. RESTRICTIONS ON USE:
+
+
+In addition to all other terms and conditions of this Agreement, you shall not: 
+
+
+(i) install one copy of the Licensed Software on more than one CPU; 
+(ii) remove any copyright, trademark or other proprietary notices from the Licensed Software or its copies; 
+(iii) make any copies except for one back-up or archival copy, for temporary emergency purpose; (iv) rent, lease, license, sublicense or distribute the Licensed Software or any portions of it on a standalone basis or as part of your application; 
+(v) modify or enhance the Licensed Software; 
+(vi) use the Licensed Software in a computer-based services business or publicly display visual output of the Licensed Software or use the Licensed Software for the benefit of any other person or entity; 
+(vii) reverse engineer, decompile or disassemble the Licensed Software. 
+(viii) allow any third parties to access, use or support the Licensed Software.
+
+
+5. TECHNICAL SUPPORT:
+
+
+vtiger provides support that includes email support for problem reporting, product upgrades, updates, and online access to product documentation during the 1st year.
+
+
+Support contract can be extended at the option of the Customer for successive one year terms, subject to the support price.
+
+
+6. OWNERSHIP AND INTELLECTUAL PROPERTY:
+
+
+6.1 vtiger owns all rights, title and interest in and to the Licensed Software. vtiger expressly reserves all rights not granted to you herein, notwithstanding the right to discontinue or not to release any Licensed Software and to alter prices, features, specifications, capabilities, functions, licensing terms, release dates, general availability or characteristics of the Licensed Software. The Licensed Software is only licensed and not sold to you by vtiger
+
+
+6.2 Trademarks. The Marks are the property of Vtiger or other rights holders. You are not permitted to use the  Marks without the prior consent of Vtiger or the rights holder. Vtiger, Vtiger CRM  and the Vtiger logo are trademarks of Vtiger. For a current list of Vtiger’s Marks, as well as certain third party Marks, please  refer to the posted trademark information at https://www.vtiger.com/trademarks/
+
+
+7. AUDIT:
+
+
+vtiger shall have the right to audit your Use of the Licensed Software by providing at least seven (7) days prior written notice of its intention to conduct such an audit at your facilities during normal business hours.
+
+
+8. CONFIDENTIALITY:
+
+
+The Licensed Software contains proprietary information of vtiger that are protected by the laws of India and you hereby agree to take all reasonable efforts to maintain the confidentiality of the Licensed Software. You agree to reasonably communicate the terms and conditions of this Agreement to those persons employed by you who come into contact with or access the Licensed Software, and to use reasonable efforts to ensure their compliance with such terms and conditions, including but not limited to, not knowingly permitting such persons to use any portion of the Licensed Software for a purpose that is not allowed under this Agreement.
+
+
+9. WARRANTY DISCLAIMER:
+
+
+vtiger does not warrant that the Licensed Software will be error-free. Except as provided herein, the Licensed Software is furnished "as is" without warranty of any kind, including the warranties of merchantability and fitness for a particular purpose and without warranty as to the performance or results you may obtain by using the Licensed Software. You are solely responsible for determining the appropriateness of using the Licensed Software and assume all risks associated with the use of it, including but not limited to the risks of program errors, damage to or loss of data, programs or equipment, and unavailability or interruption of operations.
+
+
+Because some jurisdictions do not allow for the exclusion or limitation of implied warranties, the above exclusions or limitations may not apply to you.
+
+
+10. LIMITATION OF LIABILITY:
+
+
+In no event will vtiger be liable to you or any third party for any special, incidental, indirect, punitive or exemplary or consequential damages, or damages for loss of business, loss of profits, business interruption, or loss of business information arising out of the use or inability to use the program or for any claim by any other party even if vtiger has been advised of the possibility of such damages. vtiger's entire liability with respect to its obligations under this agreement or otherwise with respect to the Licensed Software shall not exceed the amount of the named developer license fee paid by you for the Licensed Software.
+
+
+Because some jurisdictions do not allow the exclusion or limitation of liability for incidental or consequential damages, the above exclusions or limitations may not apply to you.
+
+
+11. INDEMNIFICATION:
+
+
+You agree to hold Vtiger harmless and indemnify Vtiger for any lawsuit brought against you in regards to your use of The Licensed Software in means that violate, breach or otherwise circumvent this license, Vtiger’s intellectual property rights or Vtiger’s title in The Software. You shall promptly notify Vtiger in case of such legal action and request Vtiger’s consent prior to any settlement in relation to such lawsuit or claim.
+
+
+vtiger shall have no indemnity obligation for claims of infringement to the extent resulting or alleged to result from (i) any combination, operation, or use of the Licensed software with any programs or equipment not supplied by vtiger; (ii) any modification of the Licensed Software by a party other than vtiger; and (iii) your failure, within a reasonable time frame, to implement any replacement or modification of Licensed Software provided by vtiger
+
+
+12. TERMINATION:
+
+
+1. You may stop using the Vtiger service or Vtiger product at any time.
+2. As a group administrator for a Product / Service, you may terminate an individual User’s access to a Service at any time. 
+3. You may terminate this Agreement at any time by destroying or returning to vtiger all copies of the Licensed Software in your possession. vtiger may terminate this Agreement for any reason, including but not limited to your breach of any of the terms of this Agreement. Upon termination, you shall destroy or return to vtiger all copies of the Licensed Software and certify in writing that all known copies have been destroyed. All provisions relating to confidentiality, proprietary rights, non-disclosure, and limitation of liability shall survive the termination of this Agreement.
+
+
+13. GENERAL:
+
+
+This Agreement shall be construed, interpreted and governed by the laws of the State of Karnataka exclusive of its conflicts of law provisions. This Agreement constitutes the entire agreement between the parties, and supersedes all prior communications, understandings or agreements between the parties. Any waiver or modification of this Agreement shall only be effective if it is in writing and signed by both parties hereto. If any part of this Agreement is found invalid or unenforceable, the remainder shall be interpreted so as to reasonable effect the intention of the parties. You shall not export the Licensed Software or your application containing the Licensed Software except in compliance with India's export regulations and applicable laws and regulations.

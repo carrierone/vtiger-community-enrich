@@ -9,9 +9,9 @@
     "activeTab"
   ],
   "icons": {
-    "16": "vtiger16.png",
-    "48": "vtiger48.png",
-    "128": "vtiger128.png"
+    "16": "assets/images/vtiger16.png",
+    "48": "assets/images/vtiger48.png",
+    "128": "assets/images/vtiger128.png"
   },
   "background": {
     "service_worker": "background.js"

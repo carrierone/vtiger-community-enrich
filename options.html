@@ -2,12 +2,28 @@
 <html>
 <head>
   <title>Extension Options</title>
-  <script src="options.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    input[type="text"] {
+      width: 300px;
+    }
+    button {
+      margin-top: 10px;
+    }
+  </style>
 </head>
 <body>
   <h1>Extension Options</h1>
   <label for="wsClientUrl">WSClient URL:</label>
-  <input type="text" id="wsClientUrl">
+  <input type="text" id="wsClientUrl" placeholder="Enter WSClient URL">
   <button id="saveButton">Save</button>
+
+  <script src="options.js"></script>
 </body>
 </html>

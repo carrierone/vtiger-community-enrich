@@ -6,6 +6,10 @@
     "activeTab",
     "storage"
   ],
+  "options_ui": {
+    "page": "options.html",
+    "chrome_style": true
+  },
   "icons": {
     "16": "assets/images/vtiger16.png",
     "48": "assets/images/vtiger48.png",

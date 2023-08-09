@@ -15,6 +15,6 @@
     "service_worker": "background.js"
   },
   "action": {
-    "default_popup": "options.html"
+    "default_action": "options_loader.js"
   }
 }

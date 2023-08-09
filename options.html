@@ -32,6 +32,13 @@
         console.log('wsClientUrl is set to ' + wsClientUrl);
       });
     });
+
+    // Load wsClientUrl from Chrome storage when the page is loaded
+    document.addEventListener('DOMContentLoaded', function() {
+      chrome.storage.sync.get('wsClientUrl', function(data) {
+        document.getElementById('wsClientUrl').value = data.wsClientUrl;
+      });
+    });
   </script>
 </body>
 </html>

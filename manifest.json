@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "My Extension",
+  "name": "vTiger Community Enrich",
   "version": "1.0",
   "permissions": [
     "activeTab",

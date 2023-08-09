@@ -1,24 +1,40 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Your Extension",
   "version": "1.0",
   "background": {
-    "scripts": ["background.js"],
-    "persistent": false
+    "service_worker": "background.js"
   },
-  "options_page": "options.html",
-  "permissions": [
-    "storage"
-  ],
-  "content_scripts": [
-    {
-      "matches": ["https://your-vtiger-url.com/*"],
-      "js": ["content.js"],
-      "run_at": "document_end"
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "assets/images/icon16.png",
+      "48": "assets/images/icon48.png",
+      "128": "assets/images/icon128.png"
     }
+  },
+  "options_ui": {
+    "page": "options.html",
+    "chrome_style": true
+  },
+  "permissions": [
+    "storage",
+    "activeTab"
   ],
-  "web_accessible_resources": [
-    "options.html",
-    "options.js"
-  ]
+  "host_permissions": [
+    "https://your-vtiger-url.com/*"
+  ],
+  "icons": {
+    "16": "assets/images/icon16.png",
+    "48": "assets/images/icon48.png",
+    "128": "assets/images/icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "assets/images/icon16.png",
+      "48": "assets/images/icon48.png",
+      "128": "assets/images/icon128.png"
+    }
+  }
 }

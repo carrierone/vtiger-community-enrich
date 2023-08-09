@@ -3,7 +3,8 @@
   "name": "My Extension",
   "version": "1.0",
   "permissions": [
-    "activeTab"
+    "activeTab",
+    "storage"
   ],
   "icons": {
     "16": "assets/images/vtiger16.png",

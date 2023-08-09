@@ -3,11 +3,11 @@
 // Updated code to support vTiger REST API for vTiger 7.5 community edition
 
 // Get the WSClient URL from Chrome settings
-chrome.storage.sync.get(['wsClientUrl'], function(result) {
+chrome.storage.local.get(['wsClientUrl'], function(result) {
   const wsClientUrl = result.wsClientUrl || 'https://your-vtiger-url.com';
 
   // Set the default WSClient URL
-  chrome.storage.sync.set({ wsClientUrl }, function() {
+  chrome.storage.local.set({ wsClientUrl }, function() {
     // Register the Service Worker
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function() {

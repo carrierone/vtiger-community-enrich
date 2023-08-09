@@ -6,6 +6,18 @@
     "activeTab",
     "storage"
   ],
+  "host_permissions": [
+    "http://www.linkedin.com/*",
+    "https://www.linkedin.com/*",
+    "https://www.facebook.com/*",
+    "http://www.facebook.com/*",
+    "https://www.twitter.com/*",
+    "http://www.twitter.com/*",
+    "https://www.instagram.com/*",
+    "http://www.instagram.com/*",
+    "https://twitter.com/*",
+    "http://twitter.com/*"
+  ],
   "icons": {
     "16": "assets/images/vtiger16.png",
     "48": "assets/images/vtiger48.png",

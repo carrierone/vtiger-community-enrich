@@ -1,3 +1,7 @@
+import WSClient from '../lib/WSClient';
+
+const vtigerClient = new WSClient('https://your-vtiger-url.com');
+
 function login(username, password) {
   return vtigerClient.doLogin(username, password);
 }
@@ -40,3 +44,15 @@ function fetchRefernceRecords(referenceModule, searchKey) {
 function fetchRecord(record) {
   return vtigerClient.doInvoke('fetchRecord', { record });
 }
+
+export {
+  login,
+  resolveUrl,
+  describe,
+  fetchRecordFromUrl,
+  fetchRecordFromEmail,
+  fetchRecordFromName,
+  saveRecord,
+  fetchRefernceRecords,
+  fetchRecord,
+};

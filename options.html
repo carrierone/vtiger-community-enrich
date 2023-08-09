@@ -25,5 +25,13 @@
   <button id="saveButton">Save</button>
 
   <script src="options.js"></script>
+  <script>
+    document.getElementById('saveButton').addEventListener('click', function() {
+      var wsClientUrl = document.getElementById('wsClientUrl').value;
+      chrome.storage.sync.set({wsClientUrl: wsClientUrl}, function() {
+        console.log('wsClientUrl is set to ' + wsClientUrl);
+      });
+    });
+  </script>
 </body>
 </html>
